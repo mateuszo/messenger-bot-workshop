@@ -3,9 +3,7 @@ This repository contains materials for bot workshop at [devcamp](http://devcamp.
 
 ## Introduction
 
-Some inspirations: https://poncho.is/, KLM etc.
-
-You don't have to write code: Chatfuel etc.
+See the [Conversational UI presentation](https://docs.google.com/presentation/d/e/2PACX-1vQqSplJ3w8q-sWf-NG_MuAkuMJFcUky-in84opiFDS9CI9173OYZGWcgKbfY8Q9aIORiON92OPMfzAI/pub?start=false&loop=false&delayms=3000)
 
 
 ## The Workshop
